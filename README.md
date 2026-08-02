@@ -1,2 +1,2 @@
-# Entretenimiento_Bola8
-El código implementa una aplicación gráfica llamada "Magic 8 Ball" utilizando Tkinter para la interfaz de usuario y Matplotlib para renderizar una esfera 3D que simula la bola mágica. La aplicación permite al usuario hacer preguntas y obtener respuestas aleatorias, mientras muestra una animación de la bola "agitándose".
+# Hz_bienestaremocional
+El código implementa una aplicación gráfica llamada "Hz1b" utilizando kivi para la interfaz de usuario para renderizar una plataforma que simula una consola. La aplicación permite al usuario seleccionar las frecuencias que generan bienestar, mientras muestra una animación del tipo de onda "Señal Hz".
